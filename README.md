@@ -1,8 +1,11 @@
+<img width="761" height="177" alt="hos1" src="https://github.com/user-attachments/assets/75384da6-58ac-480b-85b6-93aa2359bac6" />
+
 ELD HOS Planner — Full-Stack App (Django + React)
 
 A full-stack web application that generates FMCSA Hours-of-Service (HOS)-compliant driver logs and visual route maps.  
 Built with **Django REST Framework** for the backend and **React + Leaflet** for the frontend.
 
+<img width="567" height="412" alt="hos2" src="https://github.com/user-attachments/assets/f34fbe5d-30fa-4556-9ef3-5b579a40051c" />
 
  Features
 
@@ -13,6 +16,7 @@ Built with **Django REST Framework** for the backend and **React + Leaflet** for
 - **REST API** — `/api/plan-route/` endpoint calculates and returns activities with time stamps.
 - **CORS-enabled communication** between Django and React.
 
+<img width="1853" height="815" alt="hos3" src="https://github.com/user-attachments/assets/01b6caac-59c2-452c-a1db-a468e12c81d7" />
 
   Tech Stack
  Layer  Technology 

@@ -1,4 +1,4 @@
-  ELD HOS Planner — Full-Stack App (Django + React)
+ELD HOS Planner — Full-Stack App (Django + React)
 
 A full-stack web application that generates FMCSA Hours-of-Service (HOS)-compliant driver logs and visual route maps.  
 Built with **Django REST Framework** for the backend and **React + Leaflet** for the frontend.
@@ -24,11 +24,11 @@ Built with **Django REST Framework** for the backend and **React + Leaflet** for
  Hosting - Backend → Render / Railway; Frontend → Vercel 
 
 
-  Local Setup
+Local Setup
 
- 1️ Clone the repo
+1️ Clone the repo
 bash
-git clone (https://github.com/kidulajumba254/hos-app.git)
+git clone https://github.com/kidulajumba254/hos-app.git
 cd hos-app
 
 

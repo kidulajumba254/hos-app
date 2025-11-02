@@ -28,7 +28,7 @@ Built with **Django REST Framework** for the backend and **React + Leaflet** for
 
  1️ Clone the repo
 bash
-git clone https://github.com/<kidulajumba254>/hos-hos-planner.git
+git clone (https://github.com/kidulajumba254/hos-app.git)
 cd hos-app
 
 
